@@ -57,3 +57,6 @@ Creating note-taking applications
 Reading/writing configuration and settings files
 
 Storing data for later analysis
+
+#OUTPUT:
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/788e2c7f-7da5-4e05-a6c9-236f8b7bb891" />
